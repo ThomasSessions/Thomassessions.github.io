@@ -1,0 +1,18 @@
+html {
+background-color: white;
+}
+
+#body {
+    background-color: grey;
+    width: 90%;
+    margin: 0px 5% 0px 5%;
+}
+
+.heading {
+    color: darkred;
+    font-size: 20x;
+}
+
+.sectionone {
+    margin: 0 40%;
+}
